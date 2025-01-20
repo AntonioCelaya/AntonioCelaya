@@ -9,7 +9,7 @@ const aboutMe = {
          css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
-         PHP: ["Codeigniter"],
+         PHP: ["Vanilla"],
       },
       databases: ["MySQL"], 
    },
